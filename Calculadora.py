@@ -30,3 +30,4 @@ while True:
     op=op2
 
 print(f'O resultado é {res}')
+pritn(f'Fim de transmissão')
