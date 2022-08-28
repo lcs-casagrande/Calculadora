@@ -1,4 +1,4 @@
-# etrada de numeros
+# etrada de 
 import math
 res = n1=float(input('Digite um numero: '))
 while True:
