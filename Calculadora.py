@@ -29,5 +29,5 @@ while True:
     n1=res
     op=op2
 
-print(f'O resultado é {res}')
+print(f'O resultado é:{res}')
 
