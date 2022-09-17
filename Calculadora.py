@@ -21,7 +21,7 @@ while True:
     else:
         print('Operação invalida')
     while True:
-        op2 = str(input('Digite proxima operação ou [=] para concluir!'))
+        op2 = str(input('Digite proxima operação ou [=] para concluir:'))
         if op2 in '=^/+-*' :
             break
     if op2=='=':
