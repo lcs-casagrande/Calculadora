@@ -30,4 +30,4 @@ while True:
     op=op2
 
 print(f'O resultado é:{res}')
-
+print('Fim da operação')
